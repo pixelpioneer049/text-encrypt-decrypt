@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { decryptText, encryptText } from "../crypto";
+import { decryptText, encryptText } from "../Crypto";
 
 export const Encryptor = () => {
     const [raw, setRaw] = useState("");
