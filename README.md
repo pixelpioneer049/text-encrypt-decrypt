@@ -24,4 +24,4 @@ surge
 ```
 
 4. Published one can be found here.
-https://encrypt.accencis.surge.sh/
+http://encrypt.vanguard-shell.surge.sh/
